@@ -1,0 +1,10 @@
+@name(MicVisual)
+@version(1.0.0)
+@description "Shows your in-game Microphone volume on your screen."
+@folder_name Thunderstore\plugins
+@exclude(.gitignore)
+@exclude(bin/)
+@exclude(obj/)
+@exclude(build.bat)
+@exclude(docs/)
+@exclude(README.md)
