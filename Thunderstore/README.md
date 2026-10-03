@@ -1,21 +1,29 @@
 # Mic Visual
 
-I'm back with a new mod !
+I'm back with a new mod ! :D
 
 
 This mod consists of a volume bar at the bottom of your screen, so that you can know how loud your mic is.
 It should be pretty discrete so that should be right !
+
+There is no delay, since it follows the same logic as the head movement of the character.
 
 
 ## Features
 
 - Mic icon
 - Volume bar (dynamic)
-- config available to change displacement
+- config available to change many different parameters (stick to default for a better experience)
 
 ## Usage
 
 No need to set up anything, the overlay should appear when launching a game.
+
+And the volume bar is dynamic : it fills up depending on how loud your microphone is in game.
+
+![mic when silent](https://moonsolo.github.io/studiosoctave-images/images/REPO/MicVisual/micnouse.jpg)
+
+![mic when speaking normally](https://moonsolo.github.io/studiosoctave-images/images/REPO/MicVisual/micinuse.jpg)
 
 ## FAQ
 
@@ -55,6 +63,8 @@ You can contact me at : caesarencodingfactor@gmail.com
 
 Check out my website !
 [My website is here](https://www.moonsolo.net/)
+
+Any suggestion or mod ideas ? feel free to reach me :)
 
 Have fun !
 

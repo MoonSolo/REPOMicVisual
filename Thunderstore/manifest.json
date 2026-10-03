@@ -1,7 +1,7 @@
 {
   "name": "MicVisual",
   "version_number": "1.0.0",
-  "website_url": "https://moonsolo.net",
+  "website_url": "https://www.moonsolo.net/",
   "description": "Shows your in-game Microphone volume on your screen.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2304"
